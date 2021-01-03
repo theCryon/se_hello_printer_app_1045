@@ -55,10 +55,10 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ```
   # Do tak małego programu nie ma potrzeby używać Travisa, 
-  # ale jeżeli ktoś potrzebuje szybkiego testowania do tego kodu to tu znajduje sie 
-  # [link](https://travis-ci.org/)
+  # ale jeżeli ktoś potrzebuje szybkiego testowania do tego kodu to pod spodem znajduje sie link.
 
   ```
+  [TravisCI](https://travis-ci.org/)
 
 # Pomocnicze
 
