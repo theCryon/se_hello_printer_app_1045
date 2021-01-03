@@ -54,7 +54,10 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Integracja z TravisCI:
 
   ```
-  # miejsce na twoje notatki
+  # Do tak małego programu nie ma potrzeby używać Travisa, 
+  # ale jeżeli ktoś potrzebuje szybkiego testowania do tego kodu to tu znajduje sie 
+  # [link](https://travis-ci.org/)
+
   ```
 
 # Pomocnicze
